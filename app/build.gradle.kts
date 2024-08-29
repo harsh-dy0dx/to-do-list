@@ -4,11 +4,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.todolist"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.todolist"
+=======
+    namespace = "com.example.gridview"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.example.gridview"
+>>>>>>> todolist/main
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -16,9 +24,12 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
+<<<<<<< HEAD
     buildFeatures{
         viewBinding = true
     }
+=======
+>>>>>>> todolist/main
 
     buildTypes {
         release {
@@ -29,6 +40,12 @@ android {
             )
         }
     }
+<<<<<<< HEAD
+=======
+    buildFeatures{
+        viewBinding= true
+    }
+>>>>>>> todolist/main
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8

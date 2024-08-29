@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "To do List"
+=======
+rootProject.name = "grid view"
+>>>>>>> todolist/main
 include(":app")

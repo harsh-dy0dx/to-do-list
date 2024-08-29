@@ -1,9 +1,17 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.ToDoList" parent="Theme.Material3.DayNight.NoActionBar">
+=======
+    <style name="Base.Theme.GridView" parent="Theme.Material3.DayNight.NoActionBar">
+>>>>>>> todolist/main
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.ToDoList" parent="Base.Theme.ToDoList" />
+=======
+    <style name="Theme.GridView" parent="Base.Theme.GridView" />
+>>>>>>> todolist/main
 </resources>
